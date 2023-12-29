@@ -1,2 +1,7 @@
-/dist
-/node_modules
+node_modules/
+dist/
+ouutputs/
+custom-outouts/
+coverage/
+test-destination/
+test-filename/
